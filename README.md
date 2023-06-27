@@ -3,7 +3,8 @@
 ## Overview
 The Weather and Vacation Planner project consists of two parts. The first part of the project aims to provide evidence of the correlation (or non-correlation) between the latitude of a location and its weather variables, including temperature, humidity, cloudiness, and wind speed. Over 500 cities are generated randomly to provide enough data points. Weather information is gathered from the [OpenWeatherMap API](https://openweathermap.org/api) Scatter plots and correlation analyses are generated to gain insights into the relationship between latitude and weather.
 
-![2023-06-18 latitude vs temperature](/Output%20Data/Fig1.png)
+| Global scatter plot | Northern hemisphere scatter plot |
+|---------|---------|
 | ![2023-06-18 latitude vs temperature](/Output%20Data/Fig1.png) | ![2023-06-18 latitude vs temperature in northern hemisphere](/Output%20Data/Fig5.png) |
 
 The second part of the project utilizes the data from the first part to identify cities with desirable weather conditions for potential vacations. The project identifies the nearest hotels to these cities using the [Geoapify API](https://apidocs.geoapify.com/). A map is created to visualize the locations of the selected cities and their corresponding hotels.
