@@ -1,8 +1,8 @@
 # Python API Challenge: Weather and Vacation Planner
 
 ## Overview
-The Weather and Vacation Planner project consists of two parts. The first part of the project aims to provide evidence of the correlation (or non-correlation) between the latitude of a location and its weather variables, including temperature, humidity, cloudiness, and wind speed. Over 500 cities are generated randomly to provide enough data points. Weather information is gathered from the [OpenWeatherMap API](https://openweathermap.org/api) Scatter plots and correlation analyses are generated to gain insights into the relationship between latitude and weather.
-
+The Weather and Vacation Planner project consists of two parts. The first part of the project aims to provide evidence of the correlation (or non-correlation) between the latitude of a location and its weather variables, including temperature, humidity, cloudiness, and wind speed. Over 500 cities are generated randomly to provide enough data points. Weather information is gathered from the [OpenWeatherMap API](https://openweathermap.org/api) Scatter plots and correlation analyses are generated to gain insights into the relationship between latitude and weather. 
+For example:
 | Global scatter plot | Northern hemisphere scatter plot |
 |---------|---------|
 | ![2023-06-18 latitude vs temperature](/Output%20Data/Fig1.png) | ![2023-06-18 latitude vs temperature in northern hemisphere](/Output%20Data/Fig5.png) |
